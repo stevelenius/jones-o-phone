@@ -218,7 +218,7 @@ function draw() {
     fill(color(0));
     text('INSTRUCTIONS:', 30, 195)
     textFont(myFontNueva);
-    text('• All input from keyboard', 30, 215)
+    text('• All input from computer keyboard', 30, 215)
     text('• Letter/number/character keys', 30, 235)
     text('  play notes on C major scale', 30, 255)
     text('• Each of four main keyboard rows', 30, 275)
